@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+
+  /* Brand palette (ocean blue) */
+  --color-brand-50: #eff6ff;
+  --color-brand-100: #dbeafe;
+  --color-brand-200: #bfdbfe;
+  --color-brand-300: #93c5fd;
+  --color-brand-400: #60a5fa;
+  --color-brand-500: #3b82f6;
+  --color-brand-600: #2563eb;
+
+  /* Cherry Blossom (Sakura) palette */
+  --color-sakura-50: #fdf2f8;
+  --color-sakura-100: #fce7f3;
+  --color-sakura-200: #fbcfe8;
+  --color-sakura-300: #f9a8d4;
+  --color-sakura-400: #f472b6;
+  --color-sakura-500: #ec4899;
+  --color-sakura-600: #db2777;
+
+  /* Premium Gold palette */
+  --color-gold-50: #fefce8;
+  --color-gold-100: #fef9c3;
+  --color-gold-200: #fef08a;
+  --color-gold-300: #eab308;
+  --color-gold-400: #d4a843;
+  --color-gold-500: #b8860b;
+  --color-gold-600: #92700c;
+
+  /* Premium Navy palette */
+  --color-navy-700: #1e2a5e;
+  --color-navy-800: #1a1a4e;
+  --color-navy-900: #0d1137;
+  --color-navy-950: #070a1f;
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}

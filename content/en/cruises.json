@@ -1,0 +1,94 @@
+[
+  {
+    "slug": "kochi-iwakuni",
+    "title": "Kochi & Iwakuni Cherry Blossom Voyage",
+    "subtitle": "A 5-day journey through Japan's most stunning sakura landscapes",
+    "duration": "5 Days / 4 Nights",
+    "dates": "March 28 – April 1, 2026",
+    "route": ["Kobe", "Kochi", "Iwakuni", "Kobe"],
+    "highlights": [
+      "Kochi Castle — one of Japan's original 12 castles, surrounded by 400 cherry trees",
+      "Iwakuni Kintai Bridge — iconic five-arched wooden bridge framed by sakura",
+      "Onboard hanami parties with sake tastings on deck",
+      "Traditional kaiseki dining with seasonal spring ingredients",
+      "Guided cultural excursions with English-speaking experts"
+    ],
+    "marketingPoints": [
+      "Limited to 200 guests for an intimate experience",
+      "All-inclusive dining and entertainment",
+      "Premium ocean-view cabins with private balconies",
+      "Complimentary kimono fitting and photo session"
+    ],
+    "price": "From ¥298,000 / ~$2,000 USD per person",
+    "priceInCents": 298000,
+    "description": "Sail through the Seto Inland Sea during peak cherry blossom season. This carefully curated voyage brings you to two of Japan's most beloved sakura viewing destinations — the historic Kochi Castle grounds and the breathtaking Kintai Bridge in Iwakuni. Every detail is designed to immerse you in the beauty and tradition of hanami.",
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Departure from Kobe",
+        "description": "Board the ship at Kobe Port. Welcome reception with champagne and cherry blossom-themed cocktails. Evening sail through the Seto Inland Sea."
+      },
+      {
+        "day": "Day 2",
+        "title": "At Sea — Cultural Experiences",
+        "description": "Enjoy onboard workshops: ikebana flower arranging, sake tasting seminar, and a Japanese calligraphy class. Afternoon hanami party on the observation deck."
+      },
+      {
+        "day": "Day 3",
+        "title": "Kochi — Castle & Gardens",
+        "description": "Full day in Kochi. Visit Kochi Castle surrounded by hundreds of cherry trees in full bloom. Explore the famous Sunday Market and enjoy local cuisine including katsuo no tataki."
+      },
+      {
+        "day": "Day 4",
+        "title": "Iwakuni — Kintai Bridge",
+        "description": "Arrive in Iwakuni for the spectacular Kintai Bridge and Kikko Park. Walk beneath tunnels of cherry blossoms. Optional visit to Iwakuni Castle via ropeway for panoramic views."
+      },
+      {
+        "day": "Day 5",
+        "title": "Return to Kobe",
+        "description": "Morning at sea with farewell brunch. Arrive at Kobe Port by noon. Complimentary transfer service available."
+      }
+    ]
+  },
+  {
+    "slug": "suruga-weekend",
+    "title": "Suruga Bay Weekend Escape",
+    "subtitle": "A luxurious 3-day retreat with Mt. Fuji and cherry blossoms",
+    "duration": "3 Days / 2 Nights",
+    "dates": "April 4 – April 6, 2026",
+    "route": ["Yokohama", "Suruga Bay", "Shimizu", "Yokohama"],
+    "highlights": [
+      "Suruga Bay — panoramic views of Mt. Fuji with sakura-lined shores",
+      "Shimizu Port — gateway to Miho no Matsubara pine grove (UNESCO site)",
+      "Sunset sakura viewing from the ship's open-air deck",
+      "Fresh seafood from Suruga Bay — Japan's deepest bay",
+      "Weekend departure — perfect for short getaways"
+    ],
+    "marketingPoints": [
+      "Perfect weekend getaway — departs Friday, returns Sunday",
+      "Iconic Mt. Fuji views from the ship",
+      "Intimate vessel with only 150 guests",
+      "All meals included with premium sake pairings"
+    ],
+    "price": "From ¥178,000 / ~$1,200 USD per person",
+    "priceInCents": 178000,
+    "description": "Escape for a luxurious weekend on Suruga Bay, where the snow-capped peak of Mt. Fuji meets cherry blossom-lined shores. This compact voyage is ideal for travelers seeking an unforgettable short cruise experience, combining natural beauty with refined Japanese hospitality.",
+    "itinerary": [
+      {
+        "day": "Day 1",
+        "title": "Departure from Yokohama",
+        "description": "Board at Yokohama Osanbashi Pier. Sail into Sagami Bay with welcome dinner featuring seasonal spring cuisine. Stargazing event on the upper deck."
+      },
+      {
+        "day": "Day 2",
+        "title": "Suruga Bay & Shimizu",
+        "description": "Wake to views of Mt. Fuji. Anchor in Suruga Bay for morning onboard activities. Afternoon excursion to Shimizu — visit Miho no Matsubara and local sakura spots. Return for sunset viewing party."
+      },
+      {
+        "day": "Day 3",
+        "title": "Return to Yokohama",
+        "description": "Leisurely morning at sea with brunch and reflection. Arrive at Yokohama by early afternoon."
+      }
+    ]
+  }
+]

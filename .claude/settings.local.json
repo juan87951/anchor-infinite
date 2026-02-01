@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"C:\\\\users\\\\michi\\\\project-alpha\\\\doable\" init)",
+      "Bash(git -C \"C:\\\\users\\\\michi\\\\project-alpha\\\\doable\" add -A)",
+      "Bash(git -C \"C:\\\\users\\\\michi\\\\project-alpha\\\\doable\" status)"
+    ]
+  }
+}

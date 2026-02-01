@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "home": "Home",
+    "cruises": "Cruises",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Discover Japan by Sea",
+    "subtitle": "Luxury cruise voyages through Japan's most breathtaking destinations. From cherry blossom season to summer coasts — experience Japan like never before.",
+    "cta": "View Cruises"
+  },
+  "footer": {
+    "company": "Anchor Infinite",
+    "tagline": "Unforgettable cruise voyages across Japan",
+    "copyright": "© 2026 Anchor Infinite. All rights reserved.",
+    "links": [
+      { "label": "Cruises", "href": "/en/cruises" },
+      { "label": "Contact Us", "href": "/en/contact" },
+      { "label": "Privacy Policy", "href": "#" }
+    ]
+  }
+}

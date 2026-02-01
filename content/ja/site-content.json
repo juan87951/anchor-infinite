@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "products": "プロダクト",
+    "contact": "お問い合わせ"
+  },
+  "hero": {
+    "title": "海上の邸宅という、新しい贅沢",
+    "subtitle": "厳選されたプレミアムスイートオーナーシップで、世界中の海を我が家のように。限定30室、特別なご案内。",
+    "cta": "詳しく見る"
+  },
+  "footer": {
+    "company": "Anchor Infinite",
+    "tagline": "最上質の船旅体験をお届けします",
+    "copyright": "© 2026 Anchor Infinite. All rights reserved.",
+    "links": [
+      { "label": "プロダクト", "href": "/ja/products" },
+      { "label": "お問い合わせ", "href": "/ja/contact" },
+      { "label": "プライバシーポリシー", "href": "#" }
+    ]
+  }
+}
